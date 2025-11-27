@@ -1,0 +1,5 @@
+{
+  "name": "COSI LUTIMA Karaoke",
+  "description": "A modern and intuitive mobile application for making music requests at a restaurant karaoke. Users can enter their name and table, search for a song, and send the request directly to the karaoke admin's WhatsApp.",
+  "requestFramePermissions": []
+}
